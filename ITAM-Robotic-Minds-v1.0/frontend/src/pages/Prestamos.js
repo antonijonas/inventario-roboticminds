@@ -1,0 +1,1 @@
+export default ()=> <><h1>Préstamos</h1><p>Gestión de solicitudes y entregas.</p></>

@@ -1,0 +1,1 @@
+export default ()=> <><h1>Devoluciones</h1><p>Recepción de equipos.</p></>

@@ -1,0 +1,1 @@
+export default ()=> <><h1>Reportes</h1><p>Exportación PDF y Excel.</p></>

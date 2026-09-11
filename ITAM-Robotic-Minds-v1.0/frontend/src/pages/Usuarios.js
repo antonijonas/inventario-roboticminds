@@ -1,0 +1,1 @@
+export default ()=> <><h1>Usuarios</h1><p>Roles y permisos.</p></>
